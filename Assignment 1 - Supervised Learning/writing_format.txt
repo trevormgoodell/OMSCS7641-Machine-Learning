@@ -1,0 +1,26 @@
+I started with...
+
+and the accuracy and f1_score I got was...
+
+To optimize, I did a grid search over ...
+
+And found...
+
+This resulted in these changes...
+
+To further explore {this} parameter, I did a more fine search over...
+
+This showed...
+
+
+
+
+For the wine dataset, I used the AdaBoostClassifier with a DecisionTreeClassifier as it's base estimator, or weak learner with 50 estimators. The DecisionTreeClassifier used the entropy criterion and a ccp\_alpha of 0.005. As mentioned in the Decision Tree section, the classifier there had an optimal ccp\_alpha of 0.00003, roughly 166 times larger. This seems odd since we discussed that the higher values of ccp\_alpha actually degraded performance for the decision tree. That is the point with boosting, you can be much more aggressive with pruning and the learner will learn a specific feature of the dataset, with the other estimators learning the things that this learner could not. 
+
+This resulted in an accuracy of 0.82 and an f1-score of 0.86. This is quite impressive, we took a model that was suboptimal, due to the higher ccp\_alpha, and combined 50 of them and we had a better performance. There was an increase in 4\% in accuracy and 4\% f1-score for simply combining multiple decision trees. Similar to that of the singular Decision Tree, the training scores are 1 and the testing scores grow linearly similar to the decision tree, just performing slightly better at every step.
+
+To optimize this already well performing algorithm, I chose to do a GridSearch over the number of estimators, with a minimum value of 25, a maximum value of 250, with a step size of 25, and the learning rate, with a minimum value of 0.25, a maximum value of 2, with a step size of 0.25. The learning rate contributes how much weight is applied to each learner at each iteration. After fitting on the training set, it resulted in 250 estimators and a learning rate of 1.25. Like previously mentioned, every sample is important  to the model, for this reason I am not surprised that it resulted in the maximum number of estimators. This allowed the model to learn as much as possible, with something new with every learner. 
+
+These optimizations resulted in an accuracy of 0.83 and an f1-score of 0.87, an increase of 1\% and 1\% respectively. The results of optimization are a bit lack luster here, it appears that you slide up every point by 0.01. 
+
+To further explore the learning rate and the number of estimators, I ran two seperate searches where I fixed the one not being tested to what was found to be optimal from the GridSearch. First, for the learning rate, I tested over the same range as the GridSearch and once again the results are a bit lack luster. The results are nearly horizontal but tails off as the learning rate increase past 1.5. If you pay close attention you can see that there is a tiny peak right at 1.25, verifying the results of the GridSearch. For the number of estimators, the results are a bit more exciting, you can tell there is a general positive linear trend as the number of estimators increases. The results appear to taper down past 175, and actually decrease a little at 250. This is most likely due to a result of randomness and drawing samples. The GridSearch uses the StratifiedKFold with 5 folds, while this used 10 folds. 

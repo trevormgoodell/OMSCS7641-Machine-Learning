@@ -1,0 +1,2 @@
+criterion: gini
+ccp_alpha: 0.005

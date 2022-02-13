@@ -1,0 +1,4 @@
+activation: tanh
+solver: sgd
+alpha: 0.0001
+hidden_layer_sizes: (200, 100)

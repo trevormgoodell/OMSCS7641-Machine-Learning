@@ -1,0 +1,3 @@
+n_neighbors: 50
+weights: distance
+metric: manhattan

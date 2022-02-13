@@ -1,0 +1,2 @@
+n_estimators: 250
+learning_rate: 1.25

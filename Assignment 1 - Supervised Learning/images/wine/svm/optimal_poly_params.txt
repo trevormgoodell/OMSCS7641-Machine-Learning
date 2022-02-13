@@ -1,0 +1,3 @@
+C: 1
+degree: 4
+coef0: 2

@@ -1,0 +1,2 @@
+criterion: entropy
+ccp_alpha: 3e-05
