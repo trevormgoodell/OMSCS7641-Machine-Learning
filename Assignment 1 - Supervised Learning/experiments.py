@@ -12,8 +12,8 @@ data=util.load_wine_data_easy()
 # print("Running Wine Decision Tree Experiment")
 # decision_tree.run_experiment(data, dataset)
 
-# print("Running Wine Neural Network Experiment")
-# neural_networks.run_experiment(data, dataset)
+print("Running Wine Neural Network Experiment")
+neural_networks.run_experiment(data, dataset)
 
 # print("Running Wine Boosting Experiment")
 # boosting.run_experiment(data, dataset)
@@ -37,8 +37,8 @@ data=util.load_credit_data()
 # print("Running Credit Boosting Experiment")
 # boosting.run_experiment(data, dataset)
 
-print("Running Credit Support Vector Machine Experiment")
-svm.run_experiment(data, dataset)
+# print("Running Credit Support Vector Machine Experiment")
+# svm.run_experiment(data, dataset)
 
 # print("Running Credit k-Nearest Neighbors Experiment")
 # knn.run_experiment(data, dataset)
