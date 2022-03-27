@@ -1,0 +1,4 @@
+activation: tanh
+solver: adam
+alpha: 0.001
+hidden_layer_sizes: (80, 40)

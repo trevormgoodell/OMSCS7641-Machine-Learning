@@ -1,0 +1,25 @@
+Expectation Maximization
+Number of Components: 2 Score: 15.235 Silhouette Score: 0.2290000021457672 Completeness Score: 0.022
+Number of Components: 3 Score: 15.623 Silhouette Score: 0.18799999356269836 Completeness Score: 0.042
+Number of Components: 4 Score: 16.078 Silhouette Score: 0.16300000250339508 Completeness Score: 0.031
+Number of Components: 5 Score: 16.419 Silhouette Score: 0.1509999930858612 Completeness Score: 0.04
+Number of Components: 6 Score: 16.718 Silhouette Score: 0.07199999690055847 Completeness Score: 0.027
+Number of Components: 7 Score: 16.835 Silhouette Score: 0.03700000047683716 Completeness Score: 0.035
+Number of Components: 8 Score: 16.917 Silhouette Score: 0.013000000268220901 Completeness Score: 0.035
+Number of Components: 9 Score: 16.979 Silhouette Score: 0.03999999910593033 Completeness Score: 0.037
+Number of Components: 10 Score: 17.115 Silhouette Score: 0.04800000041723251 Completeness Score: 0.035
+Number of Components: 11 Score: 17.179 Silhouette Score: 0.013000000268220901 Completeness Score: 0.038
+Number of Components: 12 Score: 17.247 Silhouette Score: 0.026000000536441803 Completeness Score: 0.032
+Number of Components: 13 Score: 17.309 Silhouette Score: 0.02199999988079071 Completeness Score: 0.032
+Number of Components: 14 Score: 17.348 Silhouette Score: 0.012000000104308128 Completeness Score: 0.034
+Number of Components: 15 Score: 17.431 Silhouette Score: 0.014999999664723873 Completeness Score: 0.036
+Number of Components: 16 Score: 17.463 Silhouette Score: 0.006000000052154064 Completeness Score: 0.034
+Number of Components: 17 Score: 17.587 Silhouette Score: -0.014999999664723873 Completeness Score: 0.036
+Number of Components: 18 Score: 17.661 Silhouette Score: -0.0010000000474974513 Completeness Score: 0.035
+Number of Components: 19 Score: 17.678 Silhouette Score: -0.004000000189989805 Completeness Score: 0.034
+Number of Components: 20 Score: 17.713 Silhouette Score: 0.013000000268220901 Completeness Score: 0.035
+Number of Components: 21 Score: 17.759 Silhouette Score: 0.0010000000474974513 Completeness Score: 0.037
+Number of Components: 22 Score: 17.787 Silhouette Score: 0.008999999612569809 Completeness Score: 0.033
+Number of Components: 23 Score: 17.816 Silhouette Score: 0.006000000052154064 Completeness Score: 0.033
+Number of Components: 24 Score: 17.854 Silhouette Score: -0.004000000189989805 Completeness Score: 0.031
+Number of Components: 25 Score: 17.928 Silhouette Score: -0.017000000923871994 Completeness Score: 0.033

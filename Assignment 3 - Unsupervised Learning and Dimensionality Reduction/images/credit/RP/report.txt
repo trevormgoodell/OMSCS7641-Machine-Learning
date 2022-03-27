@@ -1,0 +1,19 @@
+RP
+Number of Components: 2 Explained Variance: 0.056
+Number of Components: 3 Explained Variance: 0.087
+Number of Components: 4 Explained Variance: 0.13
+Number of Components: 5 Explained Variance: 0.142
+Number of Components: 6 Explained Variance: 0.173
+Number of Components: 7 Explained Variance: 0.229
+Number of Components: 8 Explained Variance: 0.287
+Number of Components: 9 Explained Variance: 0.336
+Number of Components: 10 Explained Variance: 0.4
+Number of Components: 11 Explained Variance: 0.435
+Number of Components: 12 Explained Variance: 0.488
+Number of Components: 13 Explained Variance: 0.549
+Number of Components: 14 Explained Variance: 0.604
+Number of Components: 15 Explained Variance: 0.665
+Number of Components: 16 Explained Variance: 0.733
+Number of Components: 17 Explained Variance: 0.783
+Number of Components: 18 Explained Variance: 0.857
+Number of Components: 19 Explained Variance: 0.94

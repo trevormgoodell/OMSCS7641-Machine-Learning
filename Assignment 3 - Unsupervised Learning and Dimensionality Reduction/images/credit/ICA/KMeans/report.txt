@@ -1,0 +1,25 @@
+K-Means
+Number of Clusters: 2 Inertia: 15.001 Silhouette Score: 0.123 Completeness Score: 0.0
+Number of Clusters: 3 Inertia: 14.228 Silhouette Score: 0.073 Completeness Score: 0.005
+Number of Clusters: 4 Inertia: 13.486 Silhouette Score: 0.079 Completeness Score: 0.005
+Number of Clusters: 5 Inertia: 13.194 Silhouette Score: 0.073 Completeness Score: 0.014
+Number of Clusters: 6 Inertia: 12.36 Silhouette Score: 0.065 Completeness Score: 0.003
+Number of Clusters: 7 Inertia: 11.892 Silhouette Score: 0.078 Completeness Score: 0.01
+Number of Clusters: 8 Inertia: 11.813 Silhouette Score: 0.065 Completeness Score: 0.008
+Number of Clusters: 9 Inertia: 11.323 Silhouette Score: 0.074 Completeness Score: 0.009
+Number of Clusters: 10 Inertia: 11.14 Silhouette Score: 0.072 Completeness Score: 0.022
+Number of Clusters: 11 Inertia: 10.779 Silhouette Score: 0.072 Completeness Score: 0.011
+Number of Clusters: 12 Inertia: 10.626 Silhouette Score: 0.073 Completeness Score: 0.011
+Number of Clusters: 13 Inertia: 10.455 Silhouette Score: 0.064 Completeness Score: 0.007
+Number of Clusters: 14 Inertia: 10.306 Silhouette Score: 0.07 Completeness Score: 0.015
+Number of Clusters: 15 Inertia: 10.152 Silhouette Score: 0.071 Completeness Score: 0.023
+Number of Clusters: 16 Inertia: 10.028 Silhouette Score: 0.069 Completeness Score: 0.014
+Number of Clusters: 17 Inertia: 9.895 Silhouette Score: 0.072 Completeness Score: 0.018
+Number of Clusters: 18 Inertia: 9.76 Silhouette Score: 0.077 Completeness Score: 0.019
+Number of Clusters: 19 Inertia: 9.741 Silhouette Score: 0.072 Completeness Score: 0.016
+Number of Clusters: 20 Inertia: 9.561 Silhouette Score: 0.073 Completeness Score: 0.014
+Number of Clusters: 21 Inertia: 9.436 Silhouette Score: 0.07 Completeness Score: 0.017
+Number of Clusters: 22 Inertia: 9.373 Silhouette Score: 0.075 Completeness Score: 0.017
+Number of Clusters: 23 Inertia: 9.256 Silhouette Score: 0.078 Completeness Score: 0.026
+Number of Clusters: 24 Inertia: 9.231 Silhouette Score: 0.076 Completeness Score: 0.021
+Number of Clusters: 25 Inertia: 9.115 Silhouette Score: 0.073 Completeness Score: 0.016

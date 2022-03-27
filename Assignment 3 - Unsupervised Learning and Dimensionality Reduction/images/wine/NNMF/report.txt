@@ -1,0 +1,10 @@
+NNMF
+Number of Components: 2 Explained Variance: 0.29
+Number of Components: 3 Explained Variance: 0.523
+Number of Components: 4 Explained Variance: 0.662
+Number of Components: 5 Explained Variance: 0.726
+Number of Components: 6 Explained Variance: 0.792
+Number of Components: 7 Explained Variance: 0.866
+Number of Components: 8 Explained Variance: 0.909
+Number of Components: 9 Explained Variance: 0.96
+Number of Components: 10 Explained Variance: 0.994

@@ -1,0 +1,4 @@
+activation: relu
+solver: adam
+alpha: 0.0001
+hidden_layer_sizes: (120, 60)

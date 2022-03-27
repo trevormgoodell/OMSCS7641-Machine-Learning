@@ -1,0 +1,19 @@
+PCA
+Number of Components: 2 Explained Variance: 0.168
+Number of Components: 3 Explained Variance: 0.238
+Number of Components: 4 Explained Variance: 0.299
+Number of Components: 5 Explained Variance: 0.359
+Number of Components: 6 Explained Variance: 0.414
+Number of Components: 7 Explained Variance: 0.466
+Number of Components: 8 Explained Variance: 0.514
+Number of Components: 9 Explained Variance: 0.563
+Number of Components: 10 Explained Variance: 0.611
+Number of Components: 11 Explained Variance: 0.661
+Number of Components: 12 Explained Variance: 0.705
+Number of Components: 13 Explained Variance: 0.753
+Number of Components: 14 Explained Variance: 0.797
+Number of Components: 15 Explained Variance: 0.843
+Number of Components: 16 Explained Variance: 0.885
+Number of Components: 17 Explained Variance: 0.927
+Number of Components: 18 Explained Variance: 0.958
+Number of Components: 19 Explained Variance: 0.986
