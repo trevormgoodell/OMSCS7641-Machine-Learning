@@ -1,0 +1,64 @@
+Num States: 16
+Algorithm: PolicyIteration
+Iterations: 15
+Time: 0.0019867420196533203
+
+Algorithm: ValueIteration
+Iterations: 25
+Time: 0.0004966259002685547
+
+Algorithm: QLearning
+Iterations: 100000
+Time: 1.4353644847869873
+
+Num States: 64
+Algorithm: PolicyIteration
+Iterations: 18
+Time: 0.1201930046081543
+
+Algorithm: ValueIteration
+Iterations: 152
+Time: 0.0029799938201904297
+
+Algorithm: QLearning
+Iterations: 100000
+Time: 1.580888271331787
+
+Num States: 256
+Algorithm: PolicyIteration
+Iterations: 18
+Time: 0.23442625999450684
+
+Algorithm: ValueIteration
+Iterations: 152
+Time: 0.02036285400390625
+
+Algorithm: QLearning
+Iterations: 100000
+Time: 2.115797281265259
+
+Num States: 1024
+Algorithm: PolicyIteration
+Iterations: 18
+Time: 1.3054757118225098
+
+Algorithm: ValueIteration
+Iterations: 152
+Time: 0.041718482971191406
+
+Algorithm: QLearning
+Iterations: 100000
+Time: 4.2847373485565186
+
+Num States: 4096
+Algorithm: PolicyIteration
+Iterations: 18
+Time: 13.117883682250977
+
+Algorithm: ValueIteration
+Iterations: 152
+Time: 1.436854362487793
+
+Algorithm: QLearning
+Iterations: 100000
+Time: 13.341949939727783
